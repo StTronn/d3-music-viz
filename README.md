@@ -1,5 +1,6 @@
 # music-frequency-d3 Scatter
 A music frequency visualizer using D3.js and the Web Audio API.
+!['pic1.png'](pic1.png)
 
 Built upon following bar exampl --- [Blog Post](https://www.bignerdranch.com/blog/music-visualization-with-d3-js/)
 
